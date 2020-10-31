@@ -2,13 +2,8 @@
  *****************************************************************************
    FILE:        watch.py
 
-   AUTHOR:		Truong Pham
-
-   ASSIGNMENT:	Project 2: Part 3: Watch
-
-   DATE:		9/5/18
-
-   DESCRIPTION:	Program that tell real time when watch is upside down
+   DESCRIPTION:	Program that tell you what time is it when you look at the 
+                  watch upside down
 
  *****************************************************************************
 """
