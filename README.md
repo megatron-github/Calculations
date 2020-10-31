@@ -12,7 +12,6 @@ Peter the pool boy has a pool that needs additional water. He needs to add water
 He needs to know how long it will take to add water.
 
 Here is a sample interaction with the program.
-
 Pool length (feet): 40
 Pool width (feet): 20
 Additional depth desired (inches): 1
@@ -23,7 +22,7 @@ File: pizzas.py
 
 Erin the Equestrian Club president is holding a monthly club meeting during dinner. She needs to buy enough pizza for the club. She knows how many “standard” pizza (say 16-inch pizzas) slices the club will eat, but she isn’t going to buy standard pizzas. In order to save money, Erin will buy the equivalent number of Super Pies! Given the size of a standard pie, the number of slices in a standard pie, the number of standard slices the club will eat, and the size of the Super Pie!, what is the number of Super Pies! to buy.
 
-Here is a sample interaction with the program:
+Here is a sample interaction with the program: 
 What is the diameter of a "standard" size pie? 16
 How many slices are in a standard size pie? 8
 How many standard slices do you want? 14
@@ -46,13 +45,9 @@ Nigel from NASA has a problem for you. On April 1, 2017, while searching for sou
 100 metric hours in a day). The program is an Earth time to Metric time converter so we can easily communicate times with our new friends. 
 
 Here are four sample interactions:
-
 Enter the time of day in military time (HH:MM:SS): 1:02:03
-The "metric" time is:
-04:3:09.03
+The "metric" time is: 04:3:09.03
 Enter the time of day in military time (HH:MM:SS): 3:00:00
-The "metric" time is:
-12:5:00.00
+The "metric" time is: 12:5:00.00
 Enter the time of day in military time (HH:MM:SS): 9:20:35
-The "metric" time is:
-38:9:29.40
+The "metric" time is: 38:9:29.40
