@@ -2,12 +2,6 @@
  *****************************************************************************
    FILE:        pizzas.py
 
-   AUTHOR:		Truong Pham
-
-   ASSIGNMENT:	Project 2: Part 2: Pizza
-
-   DATE:		9/4/18
-
    DESCRIPTION: Estimtating amount of non-standard pizza needed
 
  *****************************************************************************
