@@ -2,7 +2,10 @@
  *****************************************************************************
    FILE:        pizzas.py
 
-   DESCRIPTION: Estimtating amount of non-standard pizza needed
+   DESCRIPTION: You want to buy a pizza with a desired n-inch diameter and 
+                a desired amount of slices. This program will tell you how 
+                many n-inch diameter pizza do you need given the standard 
+                pizza's diameter and amoun of slices.
 
  *****************************************************************************
 """
