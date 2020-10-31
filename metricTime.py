@@ -2,12 +2,6 @@
  *****************************************************************************
    FILE:        metricTime.py
 
-   AUTHOR:	Truong Pham
-
-   ASSIGNMENT:	Project 2: Part 4: Metric Time
-
-   DATE:	9/6/18
-
    DESCRIPTION:	Build a program that convert military time to "metric" time
 
  *****************************************************************************
