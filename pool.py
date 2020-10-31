@@ -2,17 +2,10 @@
  *****************************************************************************
    FILE:        pool.py
 
-   AUTHOR: 		Truong Pham
-
-   ASSIGNMENT:	Project 2: Part 1: Pool
-
-   DATE:		9/4/2018
-
    DESCRIPTION:	Determining time to fill out a pool
 
  *****************************************************************************
 """
-
 
 def main():
     """ This is the only function """
