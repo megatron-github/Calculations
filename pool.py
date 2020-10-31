@@ -1,8 +1,11 @@
 """
  *****************************************************************************
-   FILE:        pool.py
+   FILE:          pool.py
 
-   DESCRIPTION:	Determining time to fill out a pool
+   DESCRIPTION:	Given the pool's length, width, desired depth of water, and 
+                  the speed of the water filling up the pool, the program
+                  will tell you exactly how long it takes for the pool to be
+                  filled up to your desired depth of water
 
  *****************************************************************************
 """
