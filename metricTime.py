@@ -2,7 +2,10 @@
  *****************************************************************************
    FILE:        metricTime.py
 
-   DESCRIPTION:	Build a program that convert military time to "metric" time
+   DESCRIPTION:	Build a program that convert military time to "metric" time,
+                  in which there are 100 metric seconds in a metric minute and 
+                  10 metric minutes in a metric hour (leaving 100 metric hours 
+                  in a day).
 
  *****************************************************************************
 """
