@@ -11,9 +11,9 @@
                   Enter the time of day in military time (HH:MM:SS): 1:02:03
                   The "metric" time is: 04:3:09.03
                   Enter the time of day in military time (HH:MM:SS): 3:00:00
-				  The "metric" time is: 12:5:00.00
-				  Enter the time of day in military time (HH:MM:SS): 9:20:35
-				  The "metric" time is: 38:9:29.40
+		  The "metric" time is: 12:5:00.00
+		  Enter the time of day in military time (HH:MM:SS): 9:20:35
+		  The "metric" time is: 38:9:29.40
 
  *****************************************************************************
 """
