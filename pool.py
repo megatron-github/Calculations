@@ -5,7 +5,14 @@
    DESCRIPTION:	Given the pool's length, width, desired depth of water, and 
                   the speed of the water filling up the pool, the program
                   will tell you exactly how long it takes for the pool to be
-                  filled up to your desired depth of water
+                  filled up to your desired depth of water.
+                  
+                  Here is a sample interaction with the program.
+                  Pool length (feet): 40
+                  Pool width (feet): 20
+                  Additional depth desired (inches): 1
+                  Water fill rate (gal/min): 6.7
+                  Time: 01:14:26
 
  *****************************************************************************
 """
