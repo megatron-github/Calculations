@@ -20,12 +20,13 @@ import math
 
 def pizza_area(diameter):
     """this function will calculate the area of the pizza"""
+      
     area = math.pi * (diameter / 2)**2 
-
     return float(area)
 
 def main():
     """ This is the function that will tell you the number pizza needed """
+      
     standard_diameter = float(input('What is the diameter of a' + 
                                     ' "standard" size pie? '))
     standard_slices = float(input('How many slices are in a' +
