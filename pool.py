@@ -19,6 +19,7 @@
 
 def main():
     """ This is the only function """
+    
     length = float(input("Pool length (feet): "))
     width = float(input("Pool width (feet): "))
     desired_depth = float(input('Additional depth desired (inches): '))
