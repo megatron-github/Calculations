@@ -2,7 +2,7 @@
  *****************************************************************************
    FILE:          watch.py
 
-   DESCRIPTION:	Program that tell you what time is it when you look at the 
+   DESCRIPTION:   Program that tell you what time is it when you look at the 
                   watch upside down
                   
                   Here is a sample interaction with this program:
