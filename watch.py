@@ -19,7 +19,8 @@
 
 def main():
     """ This is a time travelling program """
-    time_read = input('What time does your upside-down watch' \
+    
+   time_read = input('What time does your upside-down watch' \
    	                  ' read (hours:minutes)? ')
 
     minutes = (int(time_read[time_read.find(':') + 1:]) + 30) % 60
