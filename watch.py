@@ -1,9 +1,18 @@
 """
  *****************************************************************************
-   FILE:        watch.py
+   FILE:          watch.py
 
    DESCRIPTION:	Program that tell you what time is it when you look at the 
                   watch upside down
+                  
+                  Here is a sample interaction with this program:
+                  What time does your upside-down watch read (hours:minutes)? 
+                  4:24
+                  The right-side-up time is: 10:54
+                  Here is another run of his program:
+                  What time does your upside-down watch read (hours:minutes)? 
+                  12:00
+                  The right-side-up time is: 6:30
 
  *****************************************************************************
 """
