@@ -1,4 +1,4 @@
-# calculations
+# Calculations
 A series of Python programs introducing to Python programming
 
 File: metricTime.py
