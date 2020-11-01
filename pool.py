@@ -2,7 +2,7 @@
  *****************************************************************************
    FILE:          pool.py
 
-   DESCRIPTION:	Given the pool's length, width, desired depth of water, and 
+   DESCRIPTION:   Given the pool's length, width, desired depth of water, and 
                   the speed of the water filling up the pool, the program
                   will tell you exactly how long it takes for the pool to be
                   filled up to your desired depth of water.
