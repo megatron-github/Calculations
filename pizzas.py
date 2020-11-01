@@ -6,6 +6,13 @@
                 a desired amount of slices. This program will tell you how 
                 many n-inch diameter pizza do you need given the standard 
                 pizza's diameter and amoun of slices.
+                
+                Here is a sample interaction with the program: 
+                What is the diameter of a "standard" size pie? 16
+                How many slices are in a standard size pie? 8
+                How many standard slices do you want? 14
+                What is the diameter of the pies you will buy? 4
+                You will need to buy 28 4-inch diameter pies.
 
  *****************************************************************************
 """
